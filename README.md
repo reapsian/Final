@@ -1,8 +1,8 @@
-# testing
+# How COVID-19 affects the writing of students in the creative writing program at Portland State University.
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>How COVID-19 affects the writing of students in the creative writing program at Portland State University.</title>
+		<title></title>
 	</head>
 	<body>
 		<ul>
