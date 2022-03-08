@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>My First Webpage</title>
+		<title>How COVID-19 affects the writing of students in the creative writing program at Portland State University.</title>
 	</head>
 	<body>
 		<ul>
